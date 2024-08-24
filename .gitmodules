@@ -1,0 +1,6 @@
+[submodule "discord-bot"]
+	path = discord-bot
+	url = ./discord-bot
+[submodule "frontend"]
+	path = frontend
+	url = ./frontend
