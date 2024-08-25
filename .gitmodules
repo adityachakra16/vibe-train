@@ -1,6 +1,6 @@
 [submodule "discord-bot"]
 	path = discord-bot
-	url = ./discord-bot
+	url = https://github.com/adityachakra16/vibe-train-discord
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend
+	url = https://github.com/adityachakra16/vibe-train-frontend
